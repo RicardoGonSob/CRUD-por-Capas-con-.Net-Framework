@@ -1,0 +1,12 @@
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\bin\Debug\DALProyectoCRUD.dll.config
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\bin\Debug\DALProyectoCRUD.dll
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\bin\Debug\DALProyectoCRUD.pdb
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\bin\Debug\EntityFramework.dll
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\bin\Debug\EntityFramework.xml
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\obj\Debug\DALProyectoCRUD.csproj.AssemblyReference.cache
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\obj\Debug\DALProyectoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\obj\Debug\DALProye.7AB6709A.Up2Date
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\obj\Debug\DALProyectoCRUD.dll
+C:\Users\rggs_\source\repos\DALProyectoCRUD\DALProyectoCRUD\obj\Debug\DALProyectoCRUD.pdb
